@@ -1,0 +1,455 @@
+{
+    "Checklists" : [
+        {
+            "id": 1,
+            "name": "Gear up and Dry Checks",
+            "sections" : [
+                {   "title" : "Donning your Harness",
+                    "detail": "",
+                    "items" : [
+                        {
+                            "headline" : "Lay out your gear",
+                            "detail" : "Lay out your gear in a way to make it easy to access, ideally in the shade. If using a cabled light, be sure your light is on your harness, and that the light head is clipped to the left chest d-ring."
+                        },
+                        {
+                            "headline" : "Check accesory pouch and lights",
+                            "detail" : "If this is the first dive of the day, or if you have accessed gear from your sidemount pouch during the previous dive, review the pouch contents with your team. Be sure to confirm that your back up light functions and that your mask is defogged. Check your primary and helmet lights for function in case something has happened to them during transport."
+                        },
+                        {
+                            "headline" : "Don Wetsuit/Drysuit",
+                            "detail" : "Confirm that all team members are ready, then don your wetsuit or drysuit and go to the water to cool off. Mexico is HOT and overheating causes rushed behavior and mistakes."
+                        },
+                        {
+                            "headline" : "Head to location",
+                            "detail" : "When all team members are ready, head to your gear up location together."
+                        },
+                        {
+                            "headline" : "Put your sidemount harness on over your shoulders.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Check that the tank bungee is free and accessible.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Cross clip inflator hose",
+                            "detail" : "Cross clip the corrugated hose (over your light cable if using a cabled light) and position your back up wing inflator if applicable."
+                        },
+                        {
+                            "headline" : "Secure Crotch Strap",
+                            "detail" : "Pull the crotch strap into position and run the wing bungee through the crotch strap. If using a cabled light, trap the cable between the bungee and your body and check that the light cannister is in position, pull the light cable tight and tuck it behind the wing."
+                        },
+                        {
+                            "headline" : "Tighten Waist Band",
+                            "detail" : "Run the waist band (over the light cable) and through the crotch strap and tighten it. Check the location of your hip d-ring(s) to be sure they are even and in position."
+                        },
+                        {
+                            "headline" : "Attach Pouch",
+                            "detail" : "Clip your sidemount pouch to the drop attachment points of your harness. Tug on the clips to confirm attachment."
+                        },
+                        {
+                            "headline" : "Attach Accessories",
+                            "detail" : "Clip accessories including spools, markers (if you have them), primary light, etc., to your butt d-ring and tug on each one to check that it’s firmly attached. Try to organize the accessories from right to left in a consistent and known order."
+                        },
+                        {
+                            "headline" : "Attach Computers, slates, etc",
+                            "detail" : "Don computers, slates, compasses and any other wrist accessories, be sure your mask, helmet and fins are close."
+                        }
+                    ]
+                    
+                },
+                {   "title" : "Dry Checks",
+                    "detail": "Dry checks are very important -- there is nothing more frustrating than getting fully geared up in the water and making it halfway through the equipment checks, only to discover you have left a reel or other item at the truck. Then you have to take everying o!, go get the forgetten item, gear back up, and restart all the checks again. This is completely avoidable if the team runs dry checks. Typically, the team leader runs the checks, and they are performed in the order that the divers geared up. If you know the harness donning procedure, you know the dry checks.",
+                    "items" : [
+                        {
+                            "headline" : "Sidemount bungee is free and accessible.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Corrugated hose inflators are correctly positioned.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Wing bungee is connected through the crotch strap.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Waist band is through the crotch strap and hip d-rings are even.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Light cable routing is correct.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Pouch is present and attached correctly.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "All neccessary accessories are on the butt d-ring",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Arm accessories are present.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Mask, fins and helmet are in-hand, or at the water.",
+                            "detail" : ""
+                        }
+                    ]
+                },
+                {   "title" : "In-Water Gear Up",
+                    "detail": "This gearing up procedure is suggested for locations such as cenotes, where it is convenient for divers to place their sidemount tanks at the edge of the water and don the tanks in the water. The basic procedure works with some modifications for most dive site entries. As a diver gears up, all equipment is self-checked for function, with the exception of lights and computers which are checked as a team before tanks are donned. As technical divers, we love redundancy, both in our gear and procedures, so after this is completed, we still check our teammates’ gear during the predive checks.",
+                    "items" : [
+                        {
+                            "headline" : "At the edge of the water, orally inflate the wing using the corrugated hose.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Enter the water and don fins and mask (if the water is too deep to stand, do this before entering the water).",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Check Lights",
+                            "detail" : "As a team, check helmet lights underwater to ensure that there are no leaks, and that the lights work underwater. Don the helmet, then check the pouch back up light and the primary light. If a cabled primary light is used, attach it to the helmet now."
+                        },
+                        {
+                            "headline" : "Check Computers",
+                            "detail" : "Check computers for the following: battery, gas mix, gradint factor/conservatism, electronic compass heading (where is north?), and comms if you are using transmitters."
+                        },
+                        {
+                            "headline" : "Check Left Tank",
+                            "detail" : "Open and close the left tank valve to make sure the tank is pressurized but closed, then pull the tank into the water, using the right hand on the tank valve and the left hand on the clip."
+                        },
+                        {
+                            "headline" : "Clip the tank to your left hip d-ring.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Open the tank valve and perform a self bubble check.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Check Regulator Necklace",
+                            "detail" : "Make sure the regulator hose bungee necklace is not looped around the tank valve, then attach the tank bungee."
+                        },
+                        {
+                            "headline" : "Route Regulator Hose",
+                            "detail" : "Pull the regulator hose clear of the hose retainer. Flip the regulator turret towards you (clockwise) so that it points up. If using a cabled light, remove the light from your helmet with your left hand. Pass the regulator hose over the back of your neck from left to right with your right hand."
+                        },
+                        {
+                            "headline" : "Don and check Regulator",
+                            "detail" : "With the necklace bungee on top of the regulator mouthpiece, put the regulator in your mouth, then pull the necklace over your head. Breathe the regulator underwater at least 3 times to confirm function, that it breathes dry, and that the tank valve is indeed open. If using a cabled light, replace the light on the helmet."
+                        },
+                        {
+                            "headline" : "Attach drysuit inflator hose",
+                            "detail" : "Attach the LPI hose to the wing or drysuit as is appropriate. Check for inflation and deflation."
+                        },
+                        {
+                            "headline" : "Check Pressure Gauge",
+                            "detail" : "Glance at the pressure gauge to confirm function, tank pressure and accessibility."
+                        },
+                        {
+                            "headline" : "Check Right Tank",
+                            "detail" : "Open and close the right tank valve to make sure the tank is pressurized but closed, then pull the tank into the water using the left hand on the valve and the right hand on the clip."
+                        },
+                        {
+                            "headline" : "Clip the tank to the right hip d-ring.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Open the tank valve and perform a self bubble check.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Attach the tank bungee.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Route Long Hose",
+                            "detail" : "Pull the first loop of the long hose free from the hose retainers. If using a cabled light, remove the light from your helmet using the left hand. With the right hand, pass the long hose over your neck from left to right."
+                        },
+                        {
+                            "headline" : "Don and Check Regulator",
+                            "detail" : "Put the regulator in your mouth and turn your head side to side. Adjust the loop of long hose on the tank to lengthen or shorten the long hose as needed. Breathe the regulator at least 3 times underwater to confirm function, that it breathes dry, and that the tank valve is indeed open."
+                        },
+                        {
+                            "headline" : "Clip off the long hose onto the right chest d-ring.",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Connect Wing Inflator Hose",
+                            "detail" : "If using a drysuit, connect the LPI hose to your wing, making sure to trap the long hose between the LPI hose and your body (as you will see this is necessary for long hose deployment). Check the wing for inflation and deflation."
+                        },
+                        {
+                            "headline" : "Check Pressure Gauge",
+                            "detail" : "Glance at the pressure gauge to confirm function, tank pressure and accessibility."
+                        },
+                        {
+                            "headline" : "",
+                            "detail" : ""
+                        }
+                    ]
+                    
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pre-dive Checks",
+            "sections" : [
+                {   "title" : "***L***eak Check",
+                    "detail": "The leak check should be performed first, as there is a zero tolerance policy for major leaks in technical diving. Even a small bubble is a sign that the leaking gear will break in the near future, and it is required to get out of the water and fix any major leaks before continuing. The leak check is composed of two parts: a valve check and a bubble check.",
+                    "items" : [
+                        {
+                            "headline" : "Valve Check",
+                            "detail" : "Show that all your valves are fully open, and check that your teammates’ valves are fully open. \n\nThis is important because if your valves were closed and you had a leak, it is possible that the leak could drain the regulator. This means that no bubbles would escape during the leak check as the regulator is not pressurized and the leak would not be visible. \n\nMany divers have trouble visualizing which direction valves open and close. To visualize which direction is open and which direction is closed, is to imagine a clock face painted on the valve hand wheel. Clockwise is closed."
+                        },
+                        {
+                            "headline" : "Bubble Check",
+                            "detail" : "Slowly rotate in front of your teammates while submerging all pieces of your equipment in the water. Your teammates should visually scan you for leaks, and quickly con!rm that all gear looks to be in place. Repeat for each member of the team."
+                        }
+                    ]
+                    
+                },
+                {   "title" : "***E***quipment Matching",
+                    "detail": "The diver leading the pre-dive checks walks his team through the equipment, piece by piece, stating each item’s location, and testing it for function. Team members answer with one of three verbal responses: \n1: “Check”\n2: “Check” + location of item if it’s different.\n3: State that the item is not working, and fix it.\n**Remember the point of equipment matching is to check your teammate’s gear. Your attention should be on them.** Lead the equipment matching in the exact same order each time, otherwise it’s easy to skip a piece of gear. The most efficient order we have found is listed below – as it works regardless of gear con!guration. If you have a different equipment matching order, it’s !ne to use it, provided that you mention all the points listed below, and that you do your equipment matching in the same order each time. If you are an acronym person, use the acronym ***TARA*** to remember the equipment matching steps.",
+                    "items" : [
+                        {
+                            "headline" : "Tanks",
+                            "detail" : "State the **volume** and **breathing gas** in your tanks, for example: “I have sidemounted aluminum 80’s filled with 32% nitrox.” This step is a place holder for when you are doing mixed-gas diving and need to review multiple cylinders filled with different mixes and con!rm their position."
+                        },
+                        {
+                            "headline" : "Attachment Points",
+                            "detail" : "In sidemount there are two attachment points to check : the tank bungee and the tank clips. \n\n**Bungee**: Visually confirm the tank bungee is correctly routed around the tank valves. \n\n**Tank clips**: Visually confirm the tanks are clipped to the desired hip d-ring, and that the long hose is behind the right tank clip and not trapped in it."
+                        },
+                        {
+                            "headline" : "Regulators",
+                            "detail" : "Start with the left first stage and check all functionalities, then move to the right !rst stage. \n\n**Left First Stage**\n**Short Hose:** Breathe at least three times underwater to confirm function. \n**LPI Hose:** If the left LPI hose runs to the wing inflator, check that the wing can be inflated with the inflator button, can be orally inflated and can be dumped from both the corrugated hose and the wing dump valve. If you have a manual back-up wing, check it at this time. If instead, you are running your drysuit inflation from the left regulator check that the drysuit inflates and deflates. \n**Pressure Gauge:** Confirm that your pressure gauge is accessible and legible. If you use transmitters, check comms again. \n\n**Right First Stage** \n**Long Hose:** Breathe at least three times underwater to confirm function, and confirm the can be partially deployed by passing it over the head. If the diver runs an LPI hose from the right tank, the long hose should be trapped between the LPI hose and the diver’s body, or it will not deploy. \n**LPI Hose:** If present, same as LPI comments above. \n**Pressure Gauge:** Same process as above."
+                        },
+                        {
+                            "headline" : "Accessories",
+                            "detail" : "Most accessories have already been checked during dry checks/electronics checks, and can be assumed to work. However line cutters on the harness and items clipped to the butt d-ring may become entangled/ loose when gearing up. \n**Line Cutter:** If mounted to the harness, touch it to confirm it’s still in place and state where it is. \n**Butt D-Ring Items:** Unclip each item, show it to your teammates, and return it to position. \n**Pouch:** Tug the pouch, make sure it’s still clipped."
+                        },
+                        {
+                            "headline" : "Anytning Else?",
+                            "detail" : "Check that’s there’s nothing you missed."
+                        }
+                    ]
+                },
+                {   "title" : "***A***ccounting (Numbers)",
+                    "detail": "The “accounting” refers to the basic parameters of the dive. It’s important to state these clearly and concisely before each dive, so that all team members can con!rm the plan. **Ideally, write this out on your slate or wetnotes in advance as a reference.** There’s five basic parameters to review.",
+                    "items" : [
+                        {
+                            "headline" : "Gas Plan",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Max and Average Depth",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Time (turn and total time if cave diving)",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Deco Plan or Safety Stop",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Direction of Travel and Direction of Exit",
+                            "detail" : ""
+                        }
+                    ]
+                    
+                },
+                {   "title" : "***P***lan/Visualization",
+                    "detail": "The plan or visualization is a verbal “walk-through” of the dive. It should include team order, as well as the specific tasks each team member is expected to complete (such as who releases the SMB in open water) and any key navigation points (such as intersections in cave diving). The level of detail depends upon the team members’ familiarity with each other. With new teammates, it’s important to give a high level of detail until you know each other’s procedures and expected responses.",
+                    "items" : [
+                    ]
+                    
+                },
+                {   "title" : "***S***ignals",
+                    "detail": "With a new team, or periodically throughout a dive trip, it’s a good idea to review signals to aid with clear communication. The standard hand signals are listed here, but don’t panic! Your instructor will review them with you before your dives. **You do not need to have the list memorized to pass sidemount training.** It’s enough to be familiar with the signals, and to be able to use them when you need to communicate. Remember, if you are having difficulty communicating with hand signals, you can always write the communication on your slate or wetnotes. The hand signals are reviewed in detail in the presentation: SM 3: COMMUNICATION, downloadable on the website from the sidemount materials.",
+                    "items" : [
+                        {
+                            "headline" : "End the Dive",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Okay",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Exit Direction",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Hold",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Direction of Travel",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "ComeUp/Go Down",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Slow Down/Speed Up",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Switch Positions",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Turn Around",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Line",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Tie Off",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Jump",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "T-Intersection",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Restriction",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Lights",
+                            "detail" : ""
+                        },{
+                            "headline" : "Mask",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Line Cutter",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Tank",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Valve",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Bungee",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Clip",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Wing",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Reel/Spool",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Personal Marker",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Slate/Write",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Broken (for real)",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Broken (simulated for training)",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Not Okay",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Out of Gas",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Dangling",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Pick Up/Put Down",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Bubbles",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Open/Close (valve)",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Entaglement",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Silt",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Stuck",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Question/Confusion",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Yes/No",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Numbers (0-9)",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Deco Stop",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Level Off/Safety Stop",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Go Up to Next Stop",
+                            "detail" : ""
+                        },
+                        {
+                            "headline" : "Final Ascent",
+                            "detail" : ""
+                        }
+                        
+                    ]
+                    
+                }
+            ]
+        }
+        ]
+    }
+        
